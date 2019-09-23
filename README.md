@@ -6,14 +6,14 @@ Using TDD (Test Driven Development) test and write the following functions. Writ
 
 ## Base Mode
 
-1. Write a function that takes in a number and returns one of the following:
+[x] Write a function that takes in a number and returns one of the following:
 
     - If the number is divisible by 3, return "Fizz". 
     - If the number is divisible by 5, return "Buzz". 
     - If the number is divisible by both 3 and 5, return "FizzBuzz". 
     - Otherwise, just return the number that was passed into the function.
 
-1. Write a function that takes in a year and returns a boolean indicating if the year is a leap year. Years that are divisible by 4 are leap years, but years that are divisible by 100 are not leap years, but years that are divisible by 400 are leap years.
+[x] Write a function that takes in a year and returns a boolean indicating if the year is a leap year. Years that are divisible by 4 are leap years, but years that are divisible by 100 are not leap years, but years that are divisible by 400 are leap years.
 
 
 ## Stretch Mode
